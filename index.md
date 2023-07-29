@@ -124,7 +124,7 @@ title: Health Systems Short Course
 <h2 style="background-color:white; color:black; text-align: center;"> A Short Course in Health Systems with a Focus on Health Data Science </h2>
 
 
-<h3 style="background-color:white; color:Red; text-align: center;"> All lectures will start from 9:00 AM - 4:30 PM for both <i lang="la">Virtual BootCamp</i> AND <i lang="la">In-person</i>. </h3> <br>
+<h3 style="background-color:white; color:Red; text-align: center;"> All lectures will start from 8:30 AM - 4:00 PM. </h3> <br>
 
 <!-- <h2 style="background-color:white; color:black; text-align: left;"> Virtual BootCamp: 19 – 23 June 2023 </h2> -->
 <!-- <h4 style="background-color:white; color:black; text-align: left;"> Please use the following link: <a href="https://ukzn.zoom.us/j/98032587955?pwd=TnkzUHpvc0txMTA1WWViNVZseTVEdz09" target="_blank"><span style="text-align:center">ZOOM LINK</span></a>. </h4> -->
@@ -195,7 +195,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 
 
-<h2>In-person Lectures</h2>
+<!-- <h2>In-person Lectures</h2> -->
 
 <table id="inpersonw1">
   <tr>
@@ -234,7 +234,6 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
   </tr>
   <tr>
     <td class="tg-amwm"><b>11:00-13:00</b></td>
@@ -246,7 +245,6 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
   <tr>
     <td class="tg-amwm"><b>13:00-14:00</b></td>
-    <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
