@@ -4,9 +4,9 @@ title: Syllabus
 ---
 
 <h3> Course Description </h3>
-<p align="justify"> Deep learning is a subfield of machine learning that builds predictive models using large artificial neural networks. Deep learning has revolutionized the fields of computer vision, automatic speech recognition, natural language processing, and numerous areas including public health, medicine and computational biology. In this short course, we will introduce the basic concepts of deep neural networks, discuss basic neural networks, convolutional neural networks and recurrent neural networks structures, and examine biomedical and public health applications. Participants are expected to be familiar with calculus, linear algebra, machine learning and Python. 
+<p align="justify"> This course will introduce trainees to concepts of health systems and its applicability to health data science. Part two of the course will look at linking these concepts and analysis of data. 
 
-  In <b>week 1</b>, participants will be introduced to several deep learning methods and techniques in a sequence of lectures and practical exercises involving computer applications using relevant real data sets in the health domain.
+  <!-- In <b>week 1</b>, participants will be introduced to several deep learning methods and techniques in a sequence of lectures and practical exercises involving computer applications using relevant real data sets in the health domain.
 
   In <b>week 2</b> participants will be engage in advanced deep learning techniques with real-life applications in public health. </p>
 
@@ -19,5 +19,5 @@ title: Syllabus
 4.	Use RNNs and their application to climate and time series health data.
 5.  Understanding the transformers and transfer learning and model building in health data.
 6.	Properly compare models using appropriate statistical approaches for fair model comparison.
-7.	Interpret deep learning results and write reports on them.
+7.	Interpret deep learning results and write reports on them. -->
 
