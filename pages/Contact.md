@@ -6,7 +6,7 @@ title: Contact
 <h2> Course content </h2>
 
 <h4> Programme Director </h4>
-* •	Professor Saloshni Naidoo - <a href="mailto:Naidoos71@ukzn.ac.za">Naidoos71@ukzn.ac.za</a> <br>
+* Professor Saloshni Naidoo - <a href="mailto:Naidoos71@ukzn.ac.za">Naidoos71@ukzn.ac.za</a> <br>
 
 <h4> DSI Postdocs </h4>
 * Dr. Mohanad Mohammed - <a href="mailto:MohammedM1@ukzn.ac.za">MohammedM1@ukzn.ac.za</a> <br>
