@@ -128,7 +128,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <h4> Day 1:</h4>
 <a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/Intro_to_Epi.pdf" download> Introduction to Epidemiology - Prof. Khan </a> <br>
-<a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/Sensitivity, Specificity, PPV, NPV_2023_06_19.pdf" download> Sensitivity, Specificity, PPV, NPV - Dr. Stephen </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/Sensitivity, Specificity, PPV, NPV_2023_06_19.pdf" download> Sensitivity, Specificity, PPV, NPV - Dr. Stephen </a> -->
 
 <!-- <video width="320" height="240" controls>
   <source src="movie.mp4" type="video/mp4">
@@ -136,6 +136,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
   Your browser does not support the video tag.
 </video> -->
 
+<!--
 <h4> Day 2:</h4>
 <a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/bias_confound.pdf" download> Bias Confound - Prof. Khan </a> <br>
 <a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/Causal modelling versus predictive modelling.pdf" download> Causal modelling versus predictive modelling - Dr. Stephen </a>
@@ -191,10 +192,11 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <br>
 
 <br>
+-->
 <!-- <h3> Please complete the following Quiz </h3> -->
 <!-- <a href="https://forms.gle/GdCLBXn3dtLunKEz8" target="_blank"> Quiz </a> <br> -->
 
-<a href="https://www.qgis.org/en/site/forusers/download.html" target="_blank"> QGIS Website (for software download) - Dr. Sandra </a> <br>
+<!-- <a href="https://www.qgis.org/en/site/forusers/download.html" target="_blank"> QGIS Website (for software download) - Dr. Sandra </a> <br>
 
 <a href="https://cloud.rssgmbh.de/index.php/s/bsL832bCPELGzKj" target="_blank"> Results and two sentinel images for the exercise (Mon, 3rd July) - Dr. Sandra </a> <br>
 
@@ -211,21 +213,21 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://drive.google.com/drive/folders/1c24x51EpRSn0GwcWHjIdWb0T4w3O88mW?usp=sharing" target="_blank"> GoogleDrive folder - Dr. Sandra </a> <br>
 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4.ipynb" download> Lab 4 -   </a> <br>
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4_solutions.ipynb" download>  Lab4 solutions - Dr. Mohanad </a> <br>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4_solutions.ipynb" download>  Lab4 solutions - Dr. Mohanad </a> <br> -->
 
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_13 2023 - Problems with RNNs, Transformers.pdf" download> Lecture_13 2023 - Problems with RNNs, Transformers - Prof. Santiago </a> <br> -->
-
+<!--
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5.ipynb" download> Lab 5 -   </a> <br>
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5_solutions.ipynb" download>  Lab5 solutions - Dr. Mohanad </a> <br>
 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_14 2023 - Transformers (cont.).pdf" download> Lecture_14 2023 - Transformers (cont.) - Prof. Santiago </a> <br>
-
+-->
 
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/ProblemSet1.ipynb" download> Problem Set1.ipynb   </a> --> <br>
 
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/ProblemSet2.ipynb" download>  ProblemSet2.ipynb </a> --> <br>
 
--->
+
 
 
 </body>
