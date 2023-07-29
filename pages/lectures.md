@@ -118,6 +118,7 @@ title: Lectures
 
 Below you'll find a list of links to lecture notes and code as well as links to homework assignments, lab session materials, slack channels for asking questions, and additional reference material.
 
+<!--
 <h4> Slack Channel </h4>
 
 <h5 style="background-color:white; color:black; text-align: left;"> Please click <a href="https://join.slack.com/t/deeplearnings-cka9031/shared_invite/zt-1wjmgh4f6-GS_T7H4qYLS0mIn9LkrzUA" target="_blank"><span style="text-align:center"> HERE </span></a> to join the slack channel. Slack Keeps our communication organized, efficient, and fun. </h5>
@@ -224,7 +225,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/ProblemSet2.ipynb" download>  ProblemSet2.ipynb </a> --> <br>
 
-
+-->
 
 
 </body>
