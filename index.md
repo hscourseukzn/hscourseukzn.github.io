@@ -142,7 +142,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 
 
-
+<!--
 <h2>Virtual BootCamp</h2>
 
 <table id="virtual">
@@ -186,7 +186,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 <br>
 
-
+-->
 
 
 
@@ -203,14 +203,13 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
   <tr>
     <th>Time</th>
-    <th><b>Monday 26/06</b></th>
-    <th><b>Tuesday 27/06</b></th>
-    <th><b>Wednesday 28/06</b></th>
-    <th><b>Thursday 29/06</b></th>
-    <th><b>Friday 30/06</b></th>
-    <th><b>Saturday 01/07</b></th>
+    <th><b>Monday 21/08</b></th>
+    <th><b>Tuesday 22/08</b></th>
+    <th><b>Wednesday 23/08</b></th>
+    <th><b>Thursday 24/08</b></th>
+    <th><b>Friday 25/08</b></th>
   </tr>
-  <tr>
+  <!-- <tr>
     <td><b>Facilitator(s)</b></td>
     <td>Santiago, Sandra</td>
     <td>Santiago, Sandra, Mandla</td>
@@ -218,19 +217,18 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td>Santiago, Sandra, Mohanad</td>
     <td>Santiago, Sandra, Mohanad</td>
     <td>Santiago, Sandra, Mohanad</td>
-  </tr>
+  </tr> -->
   
   <tr>
-    <td><b>9:00-10:30</b></td>
-    <td>Introduction to Deep Learning, Deep Learning vs Machine Learning</td>
-    <td>Introduction to Backpropagation and Multilayer Perceptrons (MLPs)</td>
-    <td>MLPs in Python with Keras</td>
-    <td>Introduction to Convolutional Neural Networks (CNNs), Convolution layers, pooling layers, fully connected layers</td>
-    <td>CNNs Basics, Fine Tuning and Visualzing the CNNs Model</td>
-    <td>Group Discussion & Mini Project (in Global Health and Climate Change)</td>
+    <td><b>8:30-10:00</b></td>
+    <td>Introductory concepts: Definition and types of health systems</td>
+    <td>Health systems building blocks</td>
+    <td>Health systems goals</td>
+    <td>Leadership and management</td>
+    <td>Introduction to Data Science methods for Health systems analysis: Causal effects Experiments and Quasi-experimental methods</td>
   </tr>
   <tr>
-    <td class="tg-amwm"><b>10:30-11:00</b></td>
+    <td class="tg-amwm"><b>10:00-11:00</b></td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
@@ -239,16 +237,15 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Break</td>
   </tr>
   <tr>
-    <td class="tg-amwm"><b>11:00-12:30</b></td>
-    <td class="tg-0lax">Unsupoervised Machine Learning</td>
-    <td class="tg-0lax">Introduction to MLPs Activiation functions, Regularization Techniques</td>
-    <td class="tg-0lax">Regularization</td>
-    <td class="tg-0lax">Transfer Learning and Fine-Tuning, Pre-trained Models, Data Agumentation using pretrained networks</td>
-    <td class="tg-0lax">Training and Testing Models on Samples Datasets</td>
-    <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
+    <td class="tg-amwm"><b>11:00-13:00</b></td>
+    <td class="tg-0lax">Comparative Health Systems</td>
+    <td class="tg-0lax">Health systems building blocks</td>
+    <td class="tg-0lax">Evaluating Health Systems</td>
+    <td class="tg-0lax">Systems thinking and analysis for health systems</td>
+    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Causal effects Experiments and Quasi-experimental methods</td>
   </tr>
   <tr>
-    <td class="tg-amwm"><b>12:30-13:30</b></td>
+    <td class="tg-amwm"><b>13:00-14:00</b></td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
@@ -257,41 +254,14 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Lunch</td>
   </tr>
   <tr>
-    <td class="tg-amwm"><b>13:30-14:30</b></td>
-    <td class="tg-0lax">Neural Networks Architecture Basics</td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Group Presentations</td>
+    <td class="tg-amwm"><b>14:00-16:00</b></td>
+    <td class="tg-0lax">Health systems functions</td>
+    <td class="tg-0lax">Health systems building blocks</td>
+    <td class="tg-0lax">Evaluating Health Systems</td>
+    <td class="tg-0lax">Quality improvement for healthcare</td>
+    <td class="tg-0lax">Practical work</td>
   </tr>
-  <tr>
-    <td class="tg-amwm"><b>14:30-14:45</b></td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm"><b>14:45-16:00</b></td>
-    <td class="tg-0lax">Simple Examples of Deep Learning in Global Health Research</td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Group Presentations</td>
-  </tr>
-  <tr>
-    <td><b>16:00-16:30</b></td>
-    <td>Office Hours</td>
-    <td>Office Hours</td>
-    <td>Office Hours</td>
-    <td>Office Hours</td>
-    <td>Office Hours</td>
-    <td>Office Hours</td>
-  </tr>
+  
 </table>
 
 <br>
@@ -311,33 +281,33 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
   <tr>
     <th class="tg-amwm"><b>Time</b></th>
-    <th class="tg-amwm"><b>Monday 03/07</b></th>
-    <th class="tg-amwm"><b>Tuesday 04/07</b></th>
-    <th class="tg-amwm"><b>Wednesday 05/07</b></th>
-    <th class="tg-amwm"><b>Thursday 06/07</b></th>
-    <th class="tg-amwm"><b>Friday 07/07</b></th>
+    <th class="tg-amwm"><b>Monday 28/08</b></th>
+    <th class="tg-amwm"><b>Tuesday 29/08</b></th>
+    <th class="tg-amwm"><b>Wednesday 30/08</b></th>
+    <th class="tg-amwm"><b>Thursday 31/08</b></th>
+    <th class="tg-amwm"><b>Friday 01/09</b></th>
   </tr>
-  <tr>
+  <!-- <tr>
     <td><b>Facilitator(s)</b></td>
     <td>Santiago, Sandra, Mandla, Kennedy</td>
     <td>Santiago, Sandra, Mandla, Kennedy</td>
     <td> Santiago, Sandra, Mandla, Kennedy </td>
     <td>Santiago, Sandra, Mohanad, Gabriel </td>
     <td>Santiago, Sandra, Mohanad, Gabriel </td>
-  </tr>
+  </tr> -->
   
   
   
   <tr>
-    <td class="tg-amwm"><b>9:00-10:30</b></td>
-    <td class="tg-0lax">Introduction to Recurrent Neural Networks (RNNs), Overview of different types of RNNs (vanilla RNNs, LSTM, GRUs)</td>
-    <td class="tg-0lax">RNNs Basics, Gradient flow and backpropagation Through Time (BPTT)</td>
-    <td class="tg-0lax">RNNs Basics Continued (LSTM), LSTM and GRU cells</td>
-    <td class="tg-0lax">Introduction to Transformers and Transfer Learning</td>
-    <td class="tg-0lax">Project Competition</td>
+    <td class="tg-amwm"><b>8:30-10:00</b></td>
+    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Discovery Clustering, co-occurrence</td>
+    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Prediction: SVM, LDA</td>
+    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Prediction: Boosting</td>
+    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Dimension reduction: PCA</td>
+    <td class="tg-0lax">TBD</td>
   </tr>
   <tr>
-    <td class="tg-amwm"><b>10:30-11:00</b></td>
+    <td class="tg-amwm"><b>10:00-11:00</b></td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
@@ -345,15 +315,15 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Break</td>
   </tr>
   <tr>
-    <td class="tg-amwm"><b>11:00-12:30</b></td>
-    <td class="tg-0lax">Basic Structure of RNNs and How they work, Application of RNNs in Global Health Research</td>
-    <td class="tg-0lax">RNNs Basics, Gradient flow and backpropagation Through Time (BPTT)</td>
-    <td class="tg-0lax">Implementing a Simple RNN in Python (Tenserflow)</td>
-    <td class="tg-0lax">Pre-Trained models, Fine-Tuning</td>
-    <td class="tg-0lax">Project Competition</td>
+    <td class="tg-amwm"><b>11:00-13:00</b></td>
+    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Discovery Clustering, co-occurrence</td>
+    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Prediction Decision trees, random plots</td>
+    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Prediction Neural Networks </td>
+    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Dimension reduction: LCA</td>
+    <td class="tg-0lax">TBD</td>
   </tr>
   <tr>
-    <td class="tg-amwm"><b>12:30-13:30</b></td>
+    <td class="tg-amwm"><b>13:00-14:00</b></td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
@@ -361,37 +331,14 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Lunch</td>
   </tr>
   <tr> 
-    <td class="tg-amwm"><b>13:30-14:30</b></td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Course Evaluation</td>
+    <td class="tg-amwm"><b>14:00-16:00</b></td>
+    <td class="tg-0lax">Practical work</td>
+    <td class="tg-0lax">Practical work</td>
+    <td class="tg-0lax">Practical work</td>
+    <td class="tg-0lax">Practical work</td>
+    <td class="tg-0lax">TBD</td>
   </tr>
-  <tr>
-    <td class="tg-amwm"><b>14:30-14:45</b></td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-  </tr>
-  <tr> 
-    <td class="tg-amwm"><b>14:45-16:00</b></td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Closing Ceremony</td>
-  </tr>
-  <tr> 
-    <td class="tg-amwm"><b>16:00-16:30</b></td>
-    <td class="tg-0lax">Office Hours</td>
-    <td class="tg-0lax">Office Hours</td>
-    <td class="tg-0lax">Office Hours</td>
-    <td class="tg-0lax">Office Hours</td>
-    <td class="tg-0lax">Closing Ceremony</td>
-  </tr>
+  
 </table>
 
 </body>
