@@ -35,7 +35,7 @@ Email: <a href="mailto:swabhavika.singh@gmail.com">swabhavika.singh@gmail.com</a
 
 <h4 style="color:DodgerBlue;"> Vidaisha Naidoo, Co-facilitator </h4>
 University of KwaZulu-Natal, South Africa. <br>
-Email: <a href="mailto:swabhavika.singh@gmail.com">swabhavika.singh@gmail.com</a> <br>
+Email: <a href="mailto:211509368@stu.ukzn.ac.za">211509368@stu.ukzn.ac.za</a> <br>
 <p align="justify"> <img src="../figures/Vidaisha.png" alt="Vidaisha" style="float:left; width:100px; height:100px; padding: 10px;"><span style="vertical-align:bottom"> Vidaisha Naidoo is a third year Public Health Medicine registrar at the University of KwaZulu-Natal’s School of Nursing and Public Health. Vidaisha qualified as a medical doctor in 2016 and obtained her Bachelor of Medicine and Surgery (MBChB) from the University of KwaZulu-Natal. Vidaisha completed her internship at General Justice Gizenga Mpanza Regional Hospital in 2018 and completed community service at Inanda A Community Health Centre in 2019. Vidaisha worked as a medical officer at General Justice Gizenga Mpanza Regional Hospital until 2021, in the Family Medicine and HIV units. Vidaisha has a special interest in public health data management, health information systems and health technology. </span> Visit <a href="" target="_blank"><span style="text-align:center">Naidoo's website</span></a> for more information about her work. </p> <br>
 
 
