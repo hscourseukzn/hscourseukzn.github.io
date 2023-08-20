@@ -221,8 +221,8 @@ Below is an outline of the current plan for course topics and schedule. It is in
   
   <tr>
     <td><b>8:30-10:00</b></td>
-    <td>Introductory concepts: Definition and types of health systems</td>
-    <td>Health systems building blocks</td>
+    <td>Welcome, Introduction and Expectations (SN) [8:30 - 9:00] - Introductory concepts- Health (OM) [9:00 - 10:00]</td>
+    <td>Health systems building blocks-Services & Finances (OM)</td>
     <td>Health systems goals</td>
     <td>Leadership and management</td>
     <td>Introduction to Data Science methods for Health systems analysis: Causal effects Experiments and Quasi-experimental methods</td>
