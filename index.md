@@ -221,7 +221,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
   
   <tr>
     <td><b>8:30-10:00</b></td>
-    <td>Welcome, Introduction and Expectations (SN) [8:30 - 9:00] - Introductory concepts- Health (OM) [9:00 - 10:00] - M</td>
+    <td>Welcome, Introduction and Expectations (SN) [8:30 - 9:00] - Introductory concepts- Health (OM) [9:00 - 10:00]</td>
     <td>Health systems building blocks-Services & Finances (OM)</td>
     <td>Strengthening Health Systems + Health system resilience and monitoring health system strengthening (SN)</td>
     <td>Systems thinking (OM)</td>
