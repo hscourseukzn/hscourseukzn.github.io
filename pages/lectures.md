@@ -127,14 +127,14 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <h4> Day 1:</h4>
 
-<a href="https://hscourseukzn.github.io/Health system definition - lecture 1.pdf" download> Health system definition - Prof. Mahomed </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/Health system definition - lecture 1.pdf" download> Health system definition - Prof. Mahomed </a> <br>
 
 <a href="https://hscourseukzn.github.io/PDFLectures/HEALTHCARE_SYSTEMS.pdf" download> HEALTHCARE SYSTEMS - Prof. S Naido </a> <br>
 
-<a href="https://hscourseukzn.github.io/Assignment1_Data_science_workshop.docx" download> Assignment 1 </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/Assignment1_Data_science_workshop.docx" download> Assignment 1 </a> <br>
 
 
-Hellow Mohanad 123
+Hellow Mohanad 1234
 
 
 
