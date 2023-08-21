@@ -128,9 +128,9 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 -->
 
 <h4> Day 1:</h4>
-<a href="https://dlcourseukzn.github.io/PDFLectures/HEALTHCARE_SYSTEMS.pdf" download> HEALTHCARE SYSTEMS - Prof. S Naidoo </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/HEALTHCARE_SYSTEMS.pdf" download> HEALTHCARE SYSTEMS - Prof. S Naidoo </a> <br>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Assignment1_Data_science_workshop.docx" download> Assignment1_Data_science_workshop </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/Assignment1_Data_science_workshop.docx" download> Assignment1_Data_science_workshop </a> <br>
 
 <!--
 <a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/Sensitivity, Specificity, PPV, NPV_2023_06_19.pdf" download> Sensitivity, Specificity, PPV, NPV - Dr. Stephen </a> -->
