@@ -329,7 +329,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Discovery Clustering, co-occurrence </td>
     <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Prediction Decision trees, random plots </td>
     <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Prediction Neural Networks</td>
-    <td class="tg-0lax">TBD</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-amwm"><b>13:00-14:00</b></td>
@@ -345,7 +345,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Practical work</td>
     <td class="tg-0lax">Practical work</td>
     <td class="tg-0lax">Practical work</td>
-    <td class="tg-0lax">TBD</td>
+    <td class="tg-0lax"></td>
   </tr>
   
 </table>
