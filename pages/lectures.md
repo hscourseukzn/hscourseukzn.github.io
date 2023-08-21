@@ -119,13 +119,13 @@ title: Lectures
 Below you'll find a list of links to lecture notes and code as well as links to homework assignments, lab session materials, slack channels for asking questions, and additional reference material.
 
 
+
+
+
 <h4> Day 1:</h4>
-<a href="https://hscourseukzn.github.io/PDFLectures/HEALTHCARE_SYSTEMS.pdf" download> HEALTHCARE SYSTEMS - Prof. S Naidoo </a> <br>
-
-<a href="PDFLectures/Assignment1_Data_science_workshop.docx" download> Assignment1_Data_science_workshop </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/HEALTHCARE_SYSTEMS.pdf" download> HEALTHCARE SYSTEMS </a> <br>
 
 
-ghhkjklljkjgjhj
 
 
 
