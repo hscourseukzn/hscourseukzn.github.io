@@ -125,9 +125,12 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 
 <h4> Virtual BootCamp </h4>
+-->
 
 <h4> Day 1:</h4>
-<a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/Intro_to_Epi.pdf" download> Introduction to Epidemiology - Prof. Khan </a> <br>
+<a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/HEALTHCARE SYSTEMS.pdf" download> HEALTHCARE SYSTEMS - Prof. S Naidoo </a> <br>
+
+<!--
 <a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/Sensitivity, Specificity, PPV, NPV_2023_06_19.pdf" download> Sensitivity, Specificity, PPV, NPV - Dr. Stephen </a> -->
 
 <!-- <video width="320" height="240" controls>
