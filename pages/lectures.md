@@ -140,7 +140,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn.github.io/PDFLectures/presentation 3.pdf" download> LEADERSHIP AND GOVERNANCE </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/Presentation Finance.pdf" download> HEALTHCARE FINANCING </a> <be>
+<a href="https://hscourseukzn.github.io/PDFLectures/Presentation Finance.pdf" download> HEALTHCARE FINANCING </a> <br>
 
 <a href="https://hscourseukzn.github.io/PDFLectures/human resources for health.pdf" download> HEALTH WORKFORCE </a> <br>
 
@@ -148,7 +148,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <h4> Day 3:</h4>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/QIP Task (2).docx" download> QIP Task (2) </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/QIP Task (2).docx" download> QIP Task </a> <br>
 
 <a href="https://hscourseukzn.github.io/PDFLectures/Data.xls" download> Data </a> <br>
 
