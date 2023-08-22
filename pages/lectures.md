@@ -146,6 +146,14 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn.github.io/PDFLectures/medicnes vaccines and technology.pdf" download> MEDICAL PRODUCTS, VACCINES AND TECHNOLOGIES </a> <br>
 
+<h4> Day 3:</h4>
+
+<a href="https://hscourseukzn.github.io/PDFLectures/QIP Task (2).docx" download> QIP Task (2) </a> <br>
+
+<a href="https://hscourseukzn.github.io/PDFLectures/Data.pdf" download> Data </a> <br>
+
+
+
 
 
 
