@@ -138,13 +138,13 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn.github.io/PDFLectures/Health system building block session 1.pdf" download> Health system building block - Prof. O Mahomed </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/presentation 3.pdf" download> presentation 3 </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/presentation 3.pdf" download> LEADERSHIP AND GOVERNANCE </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/Presentation Finance.pdf" download> Presentation Finance </a> <be>
+<a href="https://hscourseukzn.github.io/PDFLectures/Presentation Finance.pdf" download> HEALTHCARE FINANCING </a> <be>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/human resources for health.pdf" download> human resources for health </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/human resources for health.pdf" download> HEALTH WORKFORCE </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/medicnes vaccines and technology.pdf" download> medicnes vaccines and technology </a> <be>
+<a href="https://hscourseukzn.github.io/PDFLectures/medicnes vaccines and technology.pdf" download> MEDICAL PRODUCTS, VACCINES AND TECHNOLOGIES </a> <br>
 
 
 
