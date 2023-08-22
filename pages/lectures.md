@@ -131,10 +131,20 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn.github.io/PDFLectures/HEALTHCARE_SYSTEMS.pdf" download> HEALTHCARE SYSTEMS - Prof. S Naidoo </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/Assignment1_Data_science_workshop.docx" download> Assignment 1 </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/Assignment1_Data_science_workshop.docx" download> Assignment 1 </a> <be>
 
 
+<h4> Day 2:</h4>
 
+<a href="https://hscourseukzn.github.io/PDFLectures/Health system building block session 1.pdf" download> Health system building block - Prof. O Mahomed </a> <br>
+
+<a href="https://hscourseukzn.github.io/PDFLectures/presentation 3.pdf" download> presentation 3 </a> <br>
+
+<a href="https://hscourseukzn.github.io/PDFLectures/Presentation Finance.pdf" download> Presentation Finance </a> <be>
+
+<a href="https://hscourseukzn.github.io/PDFLectures/human resources for health.pdf" download> human resources for health </a> <br>
+
+<a href="https://hscourseukzn.github.io/PDFLectures/medicnes vaccines and technology.pdf" download> medicnes vaccines and technology </a> <be>
 
 
 
