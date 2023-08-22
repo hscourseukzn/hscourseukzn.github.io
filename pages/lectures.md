@@ -131,7 +131,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn.github.io/PDFLectures/HEALTHCARE_SYSTEMS.pdf" download> HEALTHCARE SYSTEMS - Prof. S Naidoo </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/Assignment1_Data_science_workshop.docx" download> Assignment 1 </a> <be>
+<a href="https://hscourseukzn.github.io/PDFLectures/Assignment1_Data_science_workshop.docx" download> Assignment 1 </a> <br>
 
 
 <h4> Day 2:</h4>
