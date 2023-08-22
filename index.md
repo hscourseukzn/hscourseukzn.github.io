@@ -138,7 +138,7 @@ title: Health Systems Short Course
 
 <!-- <a href="https://www.southernsun.com/southern-sun-elangeni-maharani" target="_blank"><span style="text-align:center">Elangeni Hotel</span></a>, 63 Snell Parade, North Beach, Durban, 4001. -->
 
-<h2 style="background-color:white; color:black; text-align: center;"> Program Timetables </h2>
+<h2 style="background-color:white; color:black; text-align: center;"> Program Schedule </h2>
 
 Below is an outline of the current plan for course topics and schedule. It is intended to serve as guidance, the specific topics and schedule may change at the decision of the course instructional staff. You can download the program schedule by clicking <a href="https://hscourseukzn.github.io/PDFLectures/Health systems programme_final.pdf" download> here </a>. <br>
 
