@@ -152,6 +152,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn.github.io/PDFLectures/Copy of Data.xls" download> Data </a> <br>
 
+<a href="https://hscourseukzn.github.io/PDFLectures/Health systemn strengthening.pdf" download> Health systems strengthening </a> <br>
 
 
 
