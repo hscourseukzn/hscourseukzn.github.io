@@ -154,7 +154,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn.github.io/PDFLectures/Health systemn strengthening.pdf" download> Health systems strengthening </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/Quality and Healthcare.pdf" download> Quality and Healthcare </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/Quality and Healthcare .pdf" download> Quality and Healthcare </a> <br>
 
 
 
