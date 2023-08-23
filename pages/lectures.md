@@ -150,7 +150,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn.github.io/PDFLectures/QIP Task (2).docx" download> QIP Task </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/Data.xls" download> Data </a> <br>
+
 
 
 
