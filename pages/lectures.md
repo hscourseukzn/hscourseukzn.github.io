@@ -157,9 +157,20 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://hscourseukzn.github.io/PDFLectures/Quality and Healthcare .pdf" download> Quality and Healthcare </a> <br>
 
 <h4> Day 4:</h4>
+
+<a href="https://hscourseukzn.github.io/PDFLectures/System thinking in Healthcare Management2.pdf" download> System thinking in Healthcare Management - Dr. Avashri </a> <br>
+
+<a href="https://hscourseukzn.github.io/PDFLectures/LEADERSHIP IN HEALTHCARE.pdf" download> LEADERSHIP IN HEALTHCARE - Dr. Avashri </a> <br>
+
+<a href="https://hscourseukzn.github.io/PDFLectures/MONITORING AND EVALUATION- 2022 (1).pdf" download> MONITORING AND EVALUATION- 2022 - Dr. Avashri </a> <br>
+
+<h5>Groups Presentations</h5>
+
 <a href="https://hscourseukzn.github.io/PDFLectures/Data science QIP vino.pdf" download> Data science QIP </a> <br>
 
 <a href="https://hscourseukzn.github.io/PDFLectures/ReproHealth_Revive_2023.pdf" download> ReproHealth_Revive_2023 </a> <br>
+
+
 
 
 
