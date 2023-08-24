@@ -148,13 +148,13 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <h4> Day 3:</h4>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/QIP Task (2).docx" download> QIP Task </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/QIP Task (2).docx" download> QIP Task - Dr. Swabhavika & Dr. Vidaisha </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/Copy of Data.xls" download> Data </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/Copy of Data.xls" download> Data - Dr. Swabhavika & Dr. Vidaisha</a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/Health systemn strengthening.pdf" download> Health systems strengthening </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/Health systemn strengthening.pdf" download> Health systems strengthening - Prof. S Saloshni </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/Quality and Healthcare .pdf" download> Quality and Healthcare </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/Quality and Healthcare .pdf" download> Quality and Healthcare - Prof. O Mahomed </a> <br>
 
 <h4> Day 4:</h4>
 
@@ -166,9 +166,9 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <h5>Groups Presentations</h5>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/Data science QIP vino.pdf" download> Data science QIP </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/Data science QIP vino.pdf" download> Data science QIP - [Dennis - Vincent - Jeroen - Vino] </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/ReproHealth_Revive_2023.pdf" download> ReproHealth_Revive_2023 </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/ReproHealth_Revive_2023.pdf" download> ReproHealth_Revive_2023 - [Zakia Salod - Castory Munishi - Ayogeboh Epizitone - Khanyisile Nene] </a> <br>
 
 
 
