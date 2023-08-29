@@ -170,6 +170,8 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn.github.io/PDFLectures/ReproHealth_Revive_2023.pdf" download> ReproHealth_Revive_2023 - [Zakia Salod - Castory Munishi - Ayogeboh Epizitone - Khanyisile Nene] </a> <br>
 
+<a href="https://hscourseukzn.github.io/PDFLectures/Health_Horizons_India_2023.pdf" download> Health_Horizons_India_2023 - [Zakia Salod - Nonjabulo Gwala - Castory Munishi - Jeroen Van Lobenstein] </a> <br>
+
 <a href="https://hscourseukzn.github.io/PDFLectures/NCD_ Slides.pdf" download> NCD - [Rebecca - Yakubu - Nonjabulo - Amos] </a> <br>
 
 <a href="https://hscourseukzn.github.io/PDFLectures/Immunisation Group3.pdf" download> Immunisation - [Andile Dlamini - Alex Mutebe - Enock Mwizerwa] </a> <br>
