@@ -186,7 +186,9 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn.github.io/PDFLectures/DSI-Africa_quasiexperimental.pdf" download> DSI-Africa Quasi Experimental - Prof. Till </a> <br>
 
+<h4> Day 7:</h4>
 
+<a href="https://hscourseukzn.github.io/PDFLectures/Assets_Data - prac.csv" download> Assets Data - PCA Practical </a> <br>
 
 </body>
 </html>
