@@ -197,6 +197,9 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <h4> Day 8:</h4>
 <a href="https://hscourseukzn.github.io/PDFLectures/clustering_data_final.csv" download> Dataset - Clustering Analysis Practical - Dr. Mohanad </a> <br>
 
+<a href="https://uc-r.github.io/kmeans_clustering"> Tutorial </a> <br>
+
+
 
 
 
