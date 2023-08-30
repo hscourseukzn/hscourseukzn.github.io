@@ -188,7 +188,13 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <h4> Day 7:</h4>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/Assets_Data - prac.csv" download> Assets Data - PCA Practical </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/DSI-Africa dimension reduction.pdf" download> Dimension Reduction - Prof. Till </a> <br>
+
+<a href="https://hscourseukzn.github.io/PDFLectures/HS_prac2.Rmd" download> PCA Practical - Dr. Mohanad </a> <br>
+
+<a href="https://hscourseukzn.github.io/PDFLectures/Assets_Data - prac.csv" download> Assets Data - PCA Practical - Dr. Mohanad </a> <br>
+
+
 
 </body>
 </html>
