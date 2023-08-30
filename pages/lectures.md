@@ -194,6 +194,11 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn.github.io/PDFLectures/Assets_Data - prac.csv" download> Assets Data - PCA Practical - Dr. Mohanad </a> <br>
 
+<h4> Day 8:</h4>
+<a href="https://hscourseukzn.github.io/PDFLectures/clustering_data_final.csv" download> Dataset - Clustering Analysis Practical - Dr. Mohanad </a> <br>
+
+
+
 
 
 </body>
