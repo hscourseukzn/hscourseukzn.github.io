@@ -199,15 +199,20 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn.github.io/PDFLectures/clustering_data_final.csv" download> Dataset - Clustering Analysis Practical - Dr. Mohanad </a> <br>
 
+<a href="https://hscourseukzn.github.io/PDFLectures/Clustering Practical Session 3.Rmd" download> Clustering Practical Session 3 - Dr. Mohanad </a> <br>
+
 <a href="https://uc-r.github.io/kmeans_clustering"> Tutorial </a> <br>
 
 
 <h4> Day 9:</h4>
 
+<a href="https://hscourseukzn.github.io/PDFLectures/Prediction_30Aug23.pdf" download> Prediction - Prof. Till </a> <br>
+
 <a href="https://hscourseukzn.github.io/PDFLectures/Data_group_Prac.csv" download> Dataset - Prediction Practical - Dr. Mohanad </a> <br>
 
-<a href="https://rpubs.com/pmtam/knn"> Tutorial </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/Prediction - Practical.Rmd" download> Prediction - Practical - Dr. Mohanad </a> <br>
 
+<a href="https://rpubs.com/pmtam/knn"> Tutorial </a> <br>
 
 
 </body>
